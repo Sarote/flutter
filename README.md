@@ -1,6 +1,6 @@
-# flutter1
+# Flutter Kolin
 
-A new Flutter application.
+A new Flutter Kolin application.
 
 ## Getting Started
 
